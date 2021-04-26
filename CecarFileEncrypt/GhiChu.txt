@@ -20,3 +20,17 @@ Chức năng giải mã
 Tư tưởng: Từ bảng chữ cái ta sẽ tạo ra một dãy khóa là một hoán vị ngẫu nhiên của bảng chữ
 cái
 Việc mã hóa hay giải mã là việc tra cứu từ bảng chữ cái sang khóa và ngược lại
+
+
+22/2/21: Mã hóa đa bảng
+- Input:	+ Bảng chữ cái --> Bảng tra là một ma trận
+			+ Giá trị cần mã | giải mã
+			+ Khóa là một chuỗi ngẫu nhiên được lấy từ bảng chữ cái có độ dài bằng độ dài của giá trị cần
+			mã hóa hoặc giải mã
+- Output: Giá trị mã hóa được hoặc giải mã được
+
+29/3/21: Mã hóa hiện đại
+Dữ liệu cần mã --> Chuỗi bit
+Các thuật toán mã hóa hiện đại sẽ biến đổi chuỗi bit cần mã hóa thành
+một chuỗi bit khác
+= MD5, RSA

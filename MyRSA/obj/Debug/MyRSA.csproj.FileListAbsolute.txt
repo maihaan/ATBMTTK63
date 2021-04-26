@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\bin\Debug\MyRSA.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\bin\Debug\MyRSA.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\bin\Debug\MyRSA.pdb
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\MyRSA\obj\Debug\MyRSA.pdb
