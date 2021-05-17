@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaBang", "DaBang\DaBang.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRSA", "MyRSA\MyRSA.csproj", "{98F80191-75DC-4EFF-82DB-126A9118DED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5", "MD5\MD5.csproj", "{AFF532F5-EF9E-4A3D-9C6F-CF22DD93A2E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{98F80191-75DC-4EFF-82DB-126A9118DED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F80191-75DC-4EFF-82DB-126A9118DED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F80191-75DC-4EFF-82DB-126A9118DED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF532F5-EF9E-4A3D-9C6F-CF22DD93A2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF532F5-EF9E-4A3D-9C6F-CF22DD93A2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF532F5-EF9E-4A3D-9C6F-CF22DD93A2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF532F5-EF9E-4A3D-9C6F-CF22DD93A2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
